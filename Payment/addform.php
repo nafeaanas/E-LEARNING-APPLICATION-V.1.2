@@ -39,7 +39,7 @@ if(isset($_POST['submit'])){
               <form action="" class="p-4  " method="post">
                   <div class="mb-2">
                        <label for="exampleInputemail1" class="form-label ">name</label>
-                       <input type="text" class="form-control" id="exampleInputemail1" aria-describedby="emailHelp" placeholder="Enter student name" name="name" REQUIRED>
+                       <input type="text" class="form-control" id="exampleInputemail1" aria-describedby="emailHelp" placeholder="Enter payment name" name="name" REQUIRED>
                   </div>
                   <div class="mb-2">
                        <label for="exampleInputemail1" class="form-label ">payment_schedule</label>

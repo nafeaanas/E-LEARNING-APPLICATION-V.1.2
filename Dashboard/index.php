@@ -45,7 +45,7 @@
                                         <p class="mt-2">Payments</p>
                                     </div>  
                                     <div class="text-end pe-3">
-                                        <p class="fs-6"><strong>DHS 556,000</strong></p>
+                                        <p class="fs-6"><strong><?php include '../Payment/statistiques_payment.php' ?></strong></p>
                                     </div> 
                             </article>
                             <article class="rectan4 col-12 col-md-5 m-2 col-lg rounded-3">
